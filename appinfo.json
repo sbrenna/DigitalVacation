@@ -1,0 +1,61 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 0,
+        "KEY_CONDITIONSH": 6,
+        "KEY_FORECASTC": 7,
+        "KEY_SCALE": 3,
+        "KEY_TEMPERATURE": 1,
+        "KEY_TEMPERATUREC": 2,
+        "KEY_TEMPERATUREH": 4,
+        "KEY_TEMPERATUREHC": 5
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Turner Vink & Sergio Brenna",
+    "longName": "Digital Vacation (Inspired by Vacation Time)",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/DIN.ttf",
+                "name": "FONT_DIN_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/cynthe.ttf",
+                "name": "FONT_CYNTHE_14",
+                "type": "font"
+            },
+            {
+                "file": "fonts/cynthe.ttf",
+                "name": "FONT_CYNTHE_25",
+                "type": "font"
+            },
+            {
+                "file": "fonts/cynthe.ttf",
+                "name": "FONT_CYNTHE_22",
+                "type": "font"
+            },
+            {
+                "file": "fonts/cynthe.ttf",
+                "name": "FONT_CYNTHE_18",
+                "type": "font"
+            },
+            {
+                "file": "images/mywatch.png",
+                "name": "SCREENSHOT",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Digital Vacation",
+    "uuid": "c237364a-0db4-11e5-a6c0-1697f925ec7b",
+    "versionCode": 1,
+    "versionLabel": "1.00",
+    "watchapp": {
+        "watchface": true
+    }
+}
